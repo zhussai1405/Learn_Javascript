@@ -4,7 +4,7 @@ console.log(numArray.includes(2));
 
 
 //include in arrays challenge
-const listIngredients = ["flour", "sugar" , "eggs", "butter", "chocolate"];
+const listIngredients = ["flour", "sugar" , "eggs", "butter"];
 
 if (listIngredients.includes("chocolate")) {
 console.log("We are going to make a chocolate cake");
